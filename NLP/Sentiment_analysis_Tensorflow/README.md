@@ -1,4 +1,4 @@
-# seniment-analysis-using-sentimnt-words-imdb
+# Sentiment-analysis-using-sentiments-words-imdb
 sentiment analysis on imdb data set with a deferent aproach
 the imdb data set is of most of the hollywood movies and the reviews are aslo by most of the USA citizens.
 thats why this model become biesed towards wastern culture and their accent of speaking and writing.
