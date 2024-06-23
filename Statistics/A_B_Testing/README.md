@@ -16,6 +16,8 @@ The data set contains information about each customer who participated in the A/
 - **peak ad hours:** an hour of the day when the user saw the most ads.
 - **ad_count:** total number of ads seen by each user.
 
+  Data Source : https://www.kaggle.com/datasets/farhadzeynalli/online-advertising-effectiveness-study-ab-testing
+
 ## Analysis
 
 The analysis is performed using Python and Jupyter Notebook. The main steps are:
