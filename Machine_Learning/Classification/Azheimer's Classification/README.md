@@ -1,4 +1,4 @@
-# AI-based Alzheimer's Disease Detection using Convolutional Neural Networks
+# Classifying Stages of Dementia
 
 This repository contains code and resources related to the development of machine learning models for the detection of Alzheimer's disease using Convolutional Neural Networks (CNNs).
 
