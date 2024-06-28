@@ -1,7 +1,6 @@
 # Classifying Stages of Dementia
 
-[This project aims to classify different stages of dementia using a dataset of brain MRI images. The dataset is sourced from Kaggle and contains images categorized into four classes.
-]
+This project aims to classify different stages of dementia using a dataset of brain MRI images. The dataset is sourced from Kaggle and contains images categorized into four classes.
 ## Requirements
 - Python 3.x 
 - Tensorflow   ```pip install tensorflow```
