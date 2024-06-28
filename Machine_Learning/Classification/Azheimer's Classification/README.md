@@ -26,26 +26,6 @@ Alzheimer MRI Preprocessed Dataset
 
 
 
-
-
-
-
-
-     
-### Motive
-The main motive behind sharing this dataset is to design/develop an accurate framework or architecture for the classification of Alzheimers Disease.
-
-### References
-
-- https://adni.loni.usc.edu/
-- https://www.alzheimers.net/
-- https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers
-- https://ieeexplore.ieee.org/document/9521165
-- https://catalog.data.gov/dataset/alzheimers-disease-and-healthy-aging-data
-- https://www.nature.com/articles/s41598-020-79243-9
-- https://cordis.europa.eu/article/id/429468-the-final-epad-dataset-is-now-available-on-the-alzheimer-s-disease-workbench
-
-
 ## Code
 The code in this repository includes data preprocessing, image augmentation, model creation and evaluation using CNNs, and transfer learning techniques. The CNN models are implemented using the Keras API in Tensorflow. Transfer learning is performed using pre-trained CNN models such as VGG and ResNet.
 
