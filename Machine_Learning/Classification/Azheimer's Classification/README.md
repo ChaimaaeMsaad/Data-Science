@@ -1,4 +1,4 @@
-# Classifying Stages of Dementia
+![image](https://github.com/ChaimaaeMsaad/Data-Science/assets/171491301/62c451c5-ed9d-4499-b19d-dab109464de4)# Classifying Stages of Dementia
 
 This project aims to classify different stages of dementia using a dataset of brain MRI images. The dataset is sourced from Kaggle and contains images categorized into four classes.
 ## Requirements
@@ -16,17 +16,26 @@ This project aims to classify different stages of dementia using a dataset of br
 
 ## Dataset [here](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
 ### About Dataset
-Alzheimer MRI Preprocessed Dataset (128 x 128)
-
-- The Data is collected from several websites/hospitals/public repositories.
-- The Dataset consists of Preprocessed MRI (Magnetic Resonance Imaging) Images.
-- All the images are resized into 128 x 128 pixels.
+Alzheimer MRI Preprocessed Dataset 
 -The Dataset has four classes of images.
-- The Dataset is consists of total 6400 MRI images.
-  1. Class - 1: Mild Demented (896 images)
-  2. Class - 2: Moderate Demented (64 images)
-  3. Class - 3: Non Demented (3200 images)
-  4. Class - 4: Very Mild Demented (2240 images)
+- The Dataset is consists of total 5000 MRI images.
+  1. Class - 1: Mild Demented 
+  2. Class - 2: Moderate Demented 
+  3. Class - 3: Non Demented 
+  4. Class - 4: Very Mild Demented
+
+
+
+ 
+
+
+
+
+
+
+
+
+     
 ### Motive
 The main motive behind sharing this dataset is to design/develop an accurate framework or architecture for the classification of Alzheimers Disease.
 
