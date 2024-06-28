@@ -17,7 +17,7 @@ This project aims to classify different stages of dementia using a dataset of br
 - CUDA Toolkit [here](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)
 
 
-## Dataset [here]([(https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)])
+## Dataset [here](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
 ### About Dataset
 Alzheimer MRI Preprocessed Dataset (128 x 128)
 
