@@ -8,11 +8,7 @@ This project aims to classify different stages of dementia using a dataset of br
 - Seaborn      ```pip install seaborn```
 - Scikit-learn ```pip install scikit-learn```
 - Scikit-image ```pip install scikit-image```
-- Pydot        ```pip install pydot```
-- Graphviz     [here](https://graphviz.gitlab.io/download/)
-
-
-
+  
 
 ## Dataset [here](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
 ### About Dataset
