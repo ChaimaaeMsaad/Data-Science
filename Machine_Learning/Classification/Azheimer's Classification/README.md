@@ -30,7 +30,7 @@ Alzheimer MRI Preprocessed Dataset
 The code in this repository includes data preprocessing, image augmentation, model creation, and evaluation using various machine learning techniques. The models implemented include:
 
     Convolutional Neural Networks (CNN) using the Keras API in TensorFlow:
-        The CNN architecture consists of multiple convolutional layers with ReLU activation, max pooling layers, and dense layers, designed to classify stages of dementia.
+        The CNN architecture consists of multiple convolutional layers with ReLU activation, max pooling layers, and dense layers. It uses a sequential model, starting with rescaling, followed by three sets of convolutional and max pooling layers, then flattening, and finally two dense layers. This setup is designed to classify stages of dementia effectively.
 
     Naive Bayes models with and without PCA for probabilistic classification.
 
