@@ -52,18 +52,8 @@ Keras Model Results:
 
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- These results indicate potential overfitting, as the model performed well on the training data but showed a drop in accuracy on the test data.
 ```
-
-
-
-
-
-  <span style="color:red">These results indicate potential overfitting, as the model performed well on the training data but showed a drop in accuracy on the test data .</span>
 
 
 
