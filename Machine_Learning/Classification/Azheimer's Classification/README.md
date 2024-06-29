@@ -50,6 +50,19 @@ Keras Model Results:
         Loss: 2.2621
         Accuracy: 62.71%
 
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
+
+
+
   <span style="color:red">These results indicate potential overfitting, as the model performed well on the training data but showed a drop in accuracy on the test data .</span>
 
 
