@@ -27,7 +27,16 @@ Alzheimer MRI Preprocessed Dataset
 
 
 ## Code
-The code in this repository includes data preprocessing, image augmentation, model creation and evaluation using CNNs, and transfer learning techniques. The CNN models are implemented using the Keras API in Tensorflow. Transfer learning is performed using pre-trained CNN models such as VGG and ResNet.
+The code in this repository includes data preprocessing, image augmentation, model creation, and evaluation using various machine learning techniques. The models implemented include:
+
+    Convolutional Neural Networks (CNN) using the Keras API in TensorFlow:
+        The CNN architecture consists of multiple convolutional layers with ReLU activation, max pooling layers, and dense layers, designed to classify stages of dementia.
+
+    Naive Bayes models with and without PCA for probabilistic classification.
+
+    K-Nearest Neighbors (KNN) using PCA for dimensionality reduction.
+
+    Random Forest classifiers with PCA for ensemble learning.
 
 ## Results
 Keras Model Results:
