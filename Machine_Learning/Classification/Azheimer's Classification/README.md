@@ -29,8 +29,7 @@ Alzheimer MRI Preprocessed Dataset
 ## Code
 The code in this repository includes data preprocessing, image augmentation, model creation, and evaluation using various machine learning techniques. The models implemented include:
 
-  * Convolutional Neural Networks (CNN) using the Keras API in TensorFlow:
-        The CNN architecture consists of multiple convolutional layers with ReLU activation, max pooling layers, and dense layers. It uses a sequential model, starting with rescaling, followed by three sets of convolutional and max pooling layers, then flattening, and finally two dense layers. This setup is designed to classify stages of dementia effectively.
+  * Convolutional Neural Networks (CNN) using the Keras API in TensorFlow.
 
   *  Naive Bayes models with and without PCA for probabilistic classification.
 
@@ -41,9 +40,9 @@ The code in this repository includes data preprocessing, image augmentation, mod
 ## Results
 Keras Model Results:
 
-The Keras model was trained and evaluated on the Alzheimer's Dataset (4 class of images) from Kaggle.
+* The Keras model was trained and evaluated on the Alzheimer's Dataset (4 class of images) from Kaggle.
 
-    Training Results (last epoch):
+    Training Results :
         Loss: 0.0163
         Accuracy: 99.61%
 
@@ -52,7 +51,8 @@ The Keras model was trained and evaluated on the Alzheimer's Dataset (4 class of
         Accuracy: 62.71%
 
 These results indicate potential overfitting, as the model performed well on the training data but showed a drop in accuracy on the test data.
-Naive Bayes Model Results (Without PCA):
+
+* Naive Bayes Model Results (Without PCA):
 
 The Naive Bayes model (Multinomial Naive Bayes) was evaluated without PCA.
 
