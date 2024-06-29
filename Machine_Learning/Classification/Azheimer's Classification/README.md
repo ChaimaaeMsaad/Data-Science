@@ -50,7 +50,8 @@ Keras Model Results:
         Loss: 2.2621
         Accuracy: 62.71%
 
-<font color="red"> These results indicate potential overfitting, as the model performed well on the training data but showed a drop in accuracy on the test data.</font>
+  <span style="color:red">These results indicate potential overfitting, as the model performed well on the training data but showed a drop in accuracy on the test data .</span>
+
 
 
 * Naive Bayes Model Results (Without PCA):
