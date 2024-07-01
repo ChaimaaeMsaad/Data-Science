@@ -43,11 +43,11 @@ Keras Model Results:
 * The Keras model was trained and evaluated on the Alzheimer's Dataset (4 class of images) from Kaggle.
 
     Training Results :
-        Loss: 0.0163
+        Loss: 0.0163 |
         Accuracy: 99.61%
 
     Test Results:
-        Loss: 2.2621
+        Loss: 2.2621 |
         Accuracy: 62.71%
 
 
