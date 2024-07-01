@@ -38,7 +38,7 @@ The code in this repository includes data preprocessing, image augmentation, mod
   *  Random Forest classifiers with PCA for ensemble learning.
 
 ## Results
-* Keras Model Results:
+*Keras Model Results:
 
 * The Keras model was trained and evaluated on the Alzheimer's Dataset (4 class of images) from Kaggle.
 
@@ -75,8 +75,9 @@ The code in this repository includes data preprocessing, image augmentation, mod
 ```
 
 
-* Naive Bayes Model Results (With PCA)
-Binary Classification
+*Naive Bayes Model Results (With PCA) :
+  
+* Binary Classification
 
     Training Accuracy: 65.39% |
     Test Accuracy: 67.19%
