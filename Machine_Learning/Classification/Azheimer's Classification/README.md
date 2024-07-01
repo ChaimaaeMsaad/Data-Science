@@ -87,7 +87,9 @@ The code in this repository includes data preprocessing, image augmentation, mod
     Training Accuracy: 56.56% |
     Test Accuracy: 54.84%
 
-
+```diff
+- It performs worst than without PCA ! 
+```
 
 
 
