@@ -57,18 +57,21 @@ Keras Model Results:
 
 
 
-* Naive Bayes Model Results (Without PCA):
+*Naive Bayes Model Results (Without PCA)
+Binary Classification
 
-The Naive Bayes model (Multinomial Naive Bayes) was evaluated without PCA.
+    Training Accuracy: 75.94%
+    Test Accuracy: 72.19%
 
-    Best Parameters:
-        Alpha: 0.1
-        Model: Multinomial Naive Bayes
-        Filter: Vertical
+Multi-Class Classification
 
-    Results:
-        Binary Classification: 72.19% accuracy
-        Multi-Class Classification: 67.34% accuracy
+    Training Accuracy: 68.13%
+    Test Accuracy: 67.34%
+
+
+```diff
+- These results suggest a slight drop in accuracy from training to test data, indicating some level of overfitting 
+```
 
 Random Forest Model Results:
 Binary Classification (2 classes)
