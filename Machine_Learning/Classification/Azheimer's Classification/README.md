@@ -71,8 +71,27 @@ The code in this repository includes data preprocessing, image augmentation, mod
 
 
 ```diff
-- These results suggest a slight drop in accuracy from training to test data, indicating some level of overfitting 
+- These results suggest a slight drop in accuracy from training to test data, indicating some level of overfitting
 ```
+
+
+* Naive Bayes Model Results (With PCA)
+Binary Classification
+
+    Training Accuracy: 65.39% |
+    Test Accuracy: 67.19%
+
+* Multi-Class Classification
+
+    Training Accuracy: 56.56% |
+    Test Accuracy: 54.84%
+
+
+
+
+
+
+
 
 Random Forest Model Results:
 Binary Classification (2 classes)
