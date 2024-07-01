@@ -61,12 +61,12 @@ The code in this repository includes data preprocessing, image augmentation, mod
 
 * Binary Classification
 
-    Training Accuracy: 75.94%
+    Training Accuracy: 75.94%  |
     Test Accuracy: 72.19%
 
 * Multi-Class Classification
 
-    Training Accuracy: 68.13%
+    Training Accuracy: 68.13%  |
     Test Accuracy: 67.34%
 
 
