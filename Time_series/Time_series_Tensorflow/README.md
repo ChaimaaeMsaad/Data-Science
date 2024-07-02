@@ -1,7 +1,7 @@
 ## Time series forecasting in TensorFlow
 The goal of this notebook is to get you familiar with working with time series data and TensorFlow.
 
-> ⚠️ This is not financial advice!
+
 
 #### What is a time series problem ?
 Time series problems deal with data over time.
