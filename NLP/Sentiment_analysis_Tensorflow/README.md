@@ -22,13 +22,13 @@ set up internet connection and your environmentshaving following dependencies
 6. keras
 please do install others if you need
 ### step  2:
-Run **Sentiment_Analysis_training_new.py** file first
+Run ```LMBD_Sentiment_Analysis_training_new.py ``` file first
 
 ### step 3:
-now Run  **Sentiment_Analysis_new.py** file to get result
+now Run  ``` LMBD_Sentiment_Analysis_new.py ``` file to get result
 ## Result
 the result will be the array of two elements 
 ### first element of the array will be showing the pobability of being the sentence or review negative 
 ### the second element of array is the probability of being the sentence or review positive
 
-the **Sentiment_Analysis_new.ipynb** file is the python noteboomk developement file for this project
+the ``` LMDB_Sentiment_Analysis.ipynb ``` file is the python noteboomk developement file for this project
