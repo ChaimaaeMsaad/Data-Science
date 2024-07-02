@@ -1,5 +1,5 @@
-# Product-Analysis
-                                               Analysing Products in sample super store using tableau
+# Product Analysis
+                                           
                                                
 Business Scenario :
 
