@@ -94,31 +94,30 @@ The code in this repository includes data preprocessing, image augmentation, mod
 
 
 
+*Random Forest Model Results (With PCA):
+
+* Binary Classification :
+
+    Training Accuracy: 93.75%
+    Test Accuracy: 90.00%
+
+* Multi-Class Classification : 
+
+    Training Accuracy: 90.31%
+    Test Accuracy: 90.00%
 
 
-Random Forest Model Results:
-Binary Classification (2 classes)
+```diff
+- These findings showcase the Random Forest model's strong performance when PCA is utilized, achieving high accuracy across both binary and multi-class classification tasks on the test dataset
+```
 
-    Training Data:
-        Accuracy: 93.75%
 
-    Test Data:
-        Accuracy: 90.00%
-        Classification Report:
-            Class 0: Precision 0.88, Recall 0.99, F1-Score 0.93
-            Class 1: Precision 0.92, Recall 0.86, F1-Score 0.89
-            Class 2: Precision 1.00, Recall 0.75, F1-Score 0.86
-            Class 3: Precision 1.00, Recall 0.33, F1-Score 0.50
 
-Multi-Class Classification (4 classes)
 
-    Training Data:
-        Accuracy: 90.31%
 
-    Test Data:
-        Overall Accuracy: 90.00%
-        Macro Avg: Precision 0.95, Recall 0.73, F1-Score 0.79
-        Weighted Avg: Precision 0.91, Recall 0.90, F1-Score 0.90
+
+
+
 
 K-Nearest Neighbors (KNN) Model Results:
 Binary Classification
