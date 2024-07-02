@@ -1,4 +1,4 @@
-# Happiness-Data-EDA
+# Happiness Data EDA
 EDA on UN World Happiness Report and World Bank Metrics from 2019
 
 ## Project Notes
