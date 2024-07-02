@@ -113,27 +113,32 @@ The code in this repository includes data preprocessing, image augmentation, mod
 
 
 
+*K-Nearest Neighbors (KNN) Model Results (With PCA) :
+
+* Binary Classification
+
+    Training Accuracy: 95.23%
+    Test Accuracy: 95.63%
+
+* Multi-Class Classification
+
+    Training Accuracy: 94.06%
+    Test Accuracy: 93.44%
+
+* Test Data Overview
+
+    Accuracy (binary class): 95.63%
+    Accuracy (multi class): 93.44%
 
 
 
+## Conclusion 
+
+```diff
+- KNN performs really well (fast and accurate), especially with PCA transformation because of dimension reduction. 
+```
+
+  
 
 
 
-K-Nearest Neighbors (KNN) Model Results:
-Binary Classification
-
-    Parameters:
-        PCA Components: 50
-        Neighbors: 3
-        Accuracy: 95.62% on test data
-
-Multi-Class Classification
-
-    Parameters:
-        PCA Components: 50
-        Neighbors: 3
-        Accuracy: 93.44% on test data
-
-
-## Conclusion
-This repository provides a comprehensive framework for the development and evaluation of machine learning models for Alzheimer's disease detection using CNNs. The code and resources in this repository can be used as a starting point for further research and development in this area.
