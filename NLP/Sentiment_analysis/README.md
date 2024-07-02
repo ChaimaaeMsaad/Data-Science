@@ -30,6 +30,9 @@ streamlit run sentimentanalysis.py
   * Once the app is running locally, a browser window will open automatically, or you can access it at ``` http://localhost:8501```
   * Enter text into the provided text area and click Analyze to see sentiment analysis results and visualizations.
 
+    
+
+![jhsghsgs](https://github.com/ChaimaaeMsaad/Data-Science/assets/171491301/eeb35235-37fc-447f-b991-938e4bb3fc3e)
 
 
 
